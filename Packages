@@ -1,0 +1,13 @@
+Package: com.developeremu.tenuis
+Name: Tenuis
+Version: 1.0-1.1
+Architecture: iphoneos-arm
+Description: It is a simple test for a simple theme.
+Maintainer: Emu
+Author: Emmanuel Tes <emmanuel.tesauro@gmail.com>
+Section: Themes (SpringBoard)
+Depends: Anemone
+Filename: C:/Utenti/Famiglia/Desktop/repo/debs/Tenuis.deb
+Size: 555982
+MD5sum: 07c3519cec7bbf5db03d420b5ced2ca2
+SHA1: e9f781e4805ae173aacdc3623596f13816a392d2

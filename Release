@@ -1,0 +1,9 @@
+Origin: DevEmu's Repo
+Label: DevEmu's Repo
+Suite: stable
+Versione: 1.0
+Codename: Emu
+Architectures: iphoneos-arm
+Components: main
+Description: Decimation's Repo
+MD5Sum:
